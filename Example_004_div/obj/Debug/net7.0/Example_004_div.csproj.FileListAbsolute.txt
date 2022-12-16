@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\bin\Debug\net7.0\Example_004_div.exe
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\bin\Debug\net7.0\Example_004_div.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\bin\Debug\net7.0\Example_004_div.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\bin\Debug\net7.0\Example_004_div.dll
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\bin\Debug\net7.0\Example_004_div.pdb
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.dll
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\refint\Example_004_div.dll
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.pdb
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\Example_004_div.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\лекции\Lekc1 Examples\Example_004_div\obj\Debug\net7.0\ref\Example_004_div.dll
